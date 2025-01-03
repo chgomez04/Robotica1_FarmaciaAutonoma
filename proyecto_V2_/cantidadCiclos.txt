@@ -1,5 +1,0 @@
-Ciclo 1
-Ciclo 2
-Ciclo 3
-Ciclo 4
-Ciclo 5
