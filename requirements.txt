@@ -1,0 +1,9 @@
+imutils
+mysql-connector-python
+mysqlclient
+numpy
+opencv-python
+Pillow
+pyfirmata
+pyserial
+pyzbar
